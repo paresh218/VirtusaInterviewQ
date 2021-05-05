@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\DS\DSProject\DSProject\bin\Debug\netcoreapp3.1\DSProject.exe
+C:\Users\dell\source\repos\DS\DSProject\DSProject\bin\Debug\netcoreapp3.1\DSProject.deps.json
+C:\Users\dell\source\repos\DS\DSProject\DSProject\bin\Debug\netcoreapp3.1\DSProject.runtimeconfig.json
+C:\Users\dell\source\repos\DS\DSProject\DSProject\bin\Debug\netcoreapp3.1\DSProject.runtimeconfig.dev.json
+C:\Users\dell\source\repos\DS\DSProject\DSProject\bin\Debug\netcoreapp3.1\DSProject.dll
+C:\Users\dell\source\repos\DS\DSProject\DSProject\bin\Debug\netcoreapp3.1\DSProject.pdb
+C:\Users\dell\source\repos\DS\DSProject\DSProject\obj\Debug\netcoreapp3.1\DSProject.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\DS\DSProject\DSProject\obj\Debug\netcoreapp3.1\DSProject.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\DS\DSProject\DSProject\obj\Debug\netcoreapp3.1\DSProject.AssemblyInfo.cs
+C:\Users\dell\source\repos\DS\DSProject\DSProject\obj\Debug\netcoreapp3.1\DSProject.dll
+C:\Users\dell\source\repos\DS\DSProject\DSProject\obj\Debug\netcoreapp3.1\DSProject.pdb
